@@ -1,1 +1,3 @@
-# 2022-ss_do_sm
+# Digital Organisation Class Notes
+
+These are the infos
