@@ -1,4 +1,4 @@
-# Hierarchy - a natural order?
+## Hierarchy - a natural order?
 
 By Sophia Mayer
 
@@ -23,7 +23,12 @@ By Sophia Mayer
 
 ### Hierarchy chart
 
-![](01.jpg)
+<div class="warning" style='background-color:#F0F0E9; color:#383D3D; border-left: solid #718096 0px; border-radius: 4px;'>
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="Unbenannt.png" style="zoom:20%;  float:right; padding:0.7em"/>
+<b>Hierarchy</b> &rarr; Test Test Test<br>
+</p>
+</div>
 
 ---
 
@@ -41,3 +46,19 @@ Various types are hidden in the economic sense:
 ---
 
 **_Is hierarchy really a natural order?_**
+
+<img src="Unbenannt.png" alt="Holacracy" width="200"/>
+
+---
+
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
+
+---
+
+| This is about Hierarchy                                                   |                            |
+| ------------------------------------------------------------------------- | -------------------------- |
+| I am text to the left but I think the text could be a bit higher honestly | ![Flowers](Operations.jpg) |
