@@ -24,7 +24,7 @@ By Sophia Mayer
 
 ---
 
-### How is hierarchy be used?
+### How is hierarchy being used?
 
 <div class="warning" style='background-color:#F0F1EB; color:#383D3D; border-left: solid #718096 4px; border-radius: 4px;'>
 <p style='padding:0em; margin-left:0em; display: inline-block;'>
@@ -37,7 +37,7 @@ By Sophia Mayer
 
 ### Origin of the hierarchy
 
-<div class="warning" style='background-color:#F0F0E9; color:#383D3D; border-left: solid #718096 0px; border-radius: 4px;'>
+<div class="warning" style='background-color:#F0F0E9; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="steinzeit.png" style="zoom:30%;  float:right; padding:0.7em"/>
 <b></b> &rarr; Many species tend to form hierarchies in nature<br>
@@ -54,7 +54,9 @@ By Sophia Mayer
 
 ---
 
-| More              | Less        |
+#### An organization for a rapidly changing environment must be a form of networks
+
+| **_More_**        | **_Less_**  |
 | ----------------- | :---------- |
 | Collaboration     | Management  |
 | Opportunity space | Hierarchy   |
@@ -65,37 +67,46 @@ By Sophia Mayer
 
 ### Hierarchy in the digital age
 
-The fewer levels of hierarchy there are, the flatter the order is referred to
-
-Various types are hidden in the economic sense:
-
-- Task hierarchy
-- Job hierarchy
-- Person hierarchy
-- Target hierarchy
+<div class="warning" style='background-color:#F0F1EB; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
+<p style='padding:0em; margin-left:0em; display: inline-block;'>
+<img src="companies.png" style="zoom:20%;  float:right; padding:0.7em"/>
+<b></b>  &rarr; In the digital age, however, a multitude of disruptive market players are challenging traditional companies and changing entire industries &rarr; increased degree of autonomy and flexibility in organizational design<br>
+</p>
+</div>
 
 ---
 
-### Test
+### Disruptive innovation ideas need flat hierarchies
 
-![Bild](company hierarchy.png)
+- enables them to exploit the diverse potential for change in the digital world
+- achieve disproportionate output
+  - often up to ten times higher than traditional, so-called linear companies
 
----
-
-**_Is hierarchy really a natural order?_**
-
-<img src="militär.png" alt="Hierarchy" width="1000"/>
+<div class="pull-right"><img src="innovation.png" alt="Hierarchy" width="150"/></div>
 
 ---
 
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+#### Instead of strictly striving for efficiency, the focus today is on rapid adaptability
+
+In order to take advantage of the disruptive potential in a digital world and remain competitive
+
+<p><center> <img src="companieherarchy.png" alt="Hierarchy" width="800"/> </center></p>
 
 ---
 
-| This is about Hierarchy                                                   |                            |
-| ------------------------------------------------------------------------- | -------------------------- |
-| I am text to the left but I think the text could be a bit higher honestly | ![Flowers](Operations.jpg) |
+##### "Spotify's success is largely based on the application of flexible concepts in organizational design and the consistent use of agile ways of working"
+
+![](spotify.png)
+
+---
+
+### What can we take away from this?
+
+- Every organization begins its order with the classic idea of hierarchy
+- this hierarchy idea can no longer be implemented well in this way and a different, more agile set-up is required
+
+![](flachehierarchie.png)
+
+---
+
+**What do you now think of when you hear the term hierarchy?**
