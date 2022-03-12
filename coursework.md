@@ -26,10 +26,10 @@ By Sophia Mayer
 
 ### How is hierarchy being used?
 
-<div class="warning" style='background-color:#F0F1EB; color:#383D3D; border-left: solid #718096 4px; border-radius: 4px;'>
+<div class="warning" style='background-color:#F0F1EB; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
 <p style='padding:0em; margin-left:0em; display: inline-block;'>
 <img src="militär.png" style="zoom:20%;  float:right; padding:0.7em"/>
-<b>Hierarchy</b>  &rarr;  From the Catholic Church to states, from the military to most private organizations, we see these pyramid-like organizations everywhere, to the point that many assume that hierarchy is a "natural order<br>
+<b>Hierarchy</b>  &rarr; From the Catholic Church to states, from the military to most private organizations, we see these pyramid-like organizations everywhere, to the point that many assume that hierarchy is a "natural order<br>
 </p>
 </div>
 
@@ -40,9 +40,15 @@ By Sophia Mayer
 <div class="warning" style='background-color:#F0F0E9; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="steinzeit.png" style="zoom:30%;  float:right; padding:0.7em"/>
-<b></b> &rarr; Many species tend to form hierarchies in nature<br>
+<b></b> Many species tend to form hierarchies in nature<br>
 </p>
 </div>
+
+---
+
+### Hierarchical structures are an effective means of top-down communication
+
+![](topdown.png)
 
 ---
 
@@ -54,14 +60,14 @@ By Sophia Mayer
 
 ---
 
-#### An organization for a rapidly changing environment must be a form of networks
+### An organization for a rapidly changing environment must be a form of networks
 
-| **_More_**        | **_Less_**  |
-| ----------------- | :---------- |
-| Collaboration     | Management  |
-| Opportunity space | Hierarchy   |
-| Emotionality      | Rules       |
-| Confidence        | Complacency |
+| <span style="color:green">**_More_**</span> | <span style="color:red">**_Less_**</span> |
+| ------------------------------------------- | :---------------------------------------- |
+| Collaboration                               | Management                                |
+| Opportunity space                           | Hierarchy                                 |
+| Emotionality                                | Rules                                     |
+| Confidence                                  | Complacency                               |
 
 ---
 
@@ -73,6 +79,12 @@ By Sophia Mayer
 <b></b>  &rarr; In the digital age, however, a multitude of disruptive market players are challenging traditional companies and changing entire industries &rarr; increased degree of autonomy and flexibility in organizational design<br>
 </p>
 </div>
+
+---
+
+### Hierarchy in the digital age
+
+![](SoMe.png)
 
 ---
 
@@ -88,13 +100,13 @@ By Sophia Mayer
 
 #### Instead of strictly striving for efficiency, the focus today is on rapid adaptability
 
-In order to take advantage of the disruptive potential in a digital world and remain competitive
+<sub><sub> In order to take advantage of the disruptive potential in a digital world and remain competitive </sub>
 
 <p><center> <img src="companieherarchy.png" alt="Hierarchy" width="800"/> </center></p>
 
 ---
 
-##### "Spotify's success is largely based on the application of flexible concepts in organizational design and the consistent use of agile ways of working"
+##### <sub> "Spotify's success is largely based on the application of flexible concepts in organizational design and the consistent use of agile ways of working" </sub>
 
 ![](spotify.png)
 
@@ -102,11 +114,21 @@ In order to take advantage of the disruptive potential in a digital world and re
 
 ### What can we take away from this?
 
-- Every organization begins its order with the classic idea of hierarchy
-- this hierarchy idea can no longer be implemented well in this way and a different, more agile set-up is required
+<sub> In an extreme complex and changing environment, companies must flatten their organizations to stay agile and competitive towards costumers and potential employees </sub>
 
 ![](flachehierarchie.png)
 
 ---
 
 **What do you now think of when you hear the term hierarchy?**
+
+---
+
+### Sources
+
+- [Definition Hierarchy](https://dictionary.cambridge.org/de/worterbuch/englisch/hierarchy) <br>
+- [Hierarchy as a strict order](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320484/hierarchie/) <br>
+- [The hierarchy as a system of sensible task distribution](https://www.business-on.de/definition-hierarchie-die-hierarchie-als-system-der-sinnvollen-aufgabenverteilung-_id42534.html) <br>
+- [Flat hierarchy: definition & advantages and disadvantages](https://axel-schroeder.de/flache-hierarchie-definition-vorteile-und-nachteile/?utm_referrer=https%3A%2F%2Fwww.google.com%2F&wdLOR=cA90443B7-1749-AE48-8182-64829FA4473D) <br>
+- [7 Types of organizational structures](https://www.lucidchart.com/blog/de/arten-von-organisations-strukturen#Hierarchische%20Organisationsstruktur) <br>
+- [Rethink organization](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/human-capital/Organisation-neu-denken-flexible-organisationsmodelle-2018.pdf)
