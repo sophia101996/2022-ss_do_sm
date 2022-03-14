@@ -6,32 +6,43 @@ By Sophia Mayer
 
 ---
 
+### Agenda
+
+1. Background information about hierarchy
+2. How hierarchy is being used
+3. Origin of hierarchy
+4. Hierarchical Structures
+5. Changes among hierarchy
+6. Hierarchy in the digital age
+7. Sources
+
+---
+
 ### Definition of hierarchy
 
 “A system in which people or things are arranged according to their importance”
 
 ---
 
-### What exactly is a hierarchy?
+### Background information about hierarchy
 
 - has its origin in Greek
 - each person has his or her precisely defined rights, powers, and responsibilities
 - hierarchy can be understood as a pyramid
-
   - at the top are the highest-ranking people, at the bottom are those with the lowest rank
 
  <p><center> <img src="organigramm.png" alt="Hierarchy" width="200"/> </center></p>
 
 ---
 
-### How is hierarchy being used?
+### How hierarchy is being used
 
 <img src="militär.png" style="height:380px;float:right; padding:0 0 0 20px"/>
 <p style="text-align:left"><b>Hierarchy</b>  &rarr; From the Catholic Church to states, from the military to most private organizations, we see these pyramid-like organizations everywhere, to the point that many assume that hierarchy is a "natural order"</p>
 
 ---
 
-### Origin of the hierarchy
+### Origin of hierarchy
 
 <img src="steinzeit.png" style="height:380px;float:left; padding:0 20px 0 0"/>
 <p style="text-align:left">&ndash; Many species tend to form hierarchies in nature<br /><br />&ndash; The very principle of functional organization is not based on a hierarchy of power, but on a classification of activities</p>
@@ -80,11 +91,11 @@ By Sophia Mayer
 
 ---
 
-#### Instead of strictly striving for efficiency, the focus today is on rapid adaptability
+### Instead of strictly striving for efficiency, the focus today is on rapid adaptability
 
 <p style="text-align: left">In order to take advantage of the disruptive potential in a digital world and remain competitive</p>
 
-<p><center> <img src="companieherarchy.png" alt="Hierarchy" width="800"/> </center></p>
+<p><center> <img src="companieherarchy.png" alt="Hierarchy" width="600"/> </center></p>
 
 ---
 
@@ -102,11 +113,11 @@ By Sophia Mayer
 
 ---
 
-**What do you now think of when you hear the term hierarchy?**
+**Do you still think that hierarchies are natural?**
 
 ---
 
-### Sources
+### Sources to directly click on it
 
 - [Definition Hierarchy](https://dictionary.cambridge.org/de/worterbuch/englisch/hierarchy) <br>
 - [Hierarchy as a strict order](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320484/hierarchie/) <br>
