@@ -26,23 +26,15 @@ By Sophia Mayer
 
 ### How is hierarchy being used?
 
-<div class="warning" style='background-color:#F0F1EB; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
-<p style='padding:0em; margin-left:0em; display: inline-block;'>
-<img src="militär.png" style="zoom:20%;  float:right; padding:0.7em"/>
-<b>Hierarchy</b>  &rarr; From the Catholic Church to states, from the military to most private organizations, we see these pyramid-like organizations everywhere, to the point that many assume that hierarchy is a "natural order<br>
-</p>
-</div>
+<img src="militär.png" style="height:380px;float:right; padding:0 0 0 20px"/>
+<p style="text-align:left"><b>Hierarchy</b>  &rarr; From the Catholic Church to states, from the military to most private organizations, we see these pyramid-like organizations everywhere, to the point that many assume that hierarchy is a "natural order"</p>
 
 ---
 
 ### Origin of the hierarchy
 
-<div class="warning" style='background-color:#F0F0E9; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
-<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="steinzeit.png" style="zoom:30%;  float:right; padding:0.7em"/>
-<b></b> Many species tend to form hierarchies in nature<br>
-</p>
-</div>
+<img src="steinzeit.png" style="height:380px;float:left; padding:0 20px 0 0"/>
+<p style="text-align:left">&ndash; Many species tend to form hierarchies in nature<br /><br />&ndash; The very principle of functional organization is not based on a hierarchy of power, but on a classification of activities</p>
 
 ---
 
@@ -73,18 +65,8 @@ By Sophia Mayer
 
 ### Hierarchy in the digital age
 
-<div class="warning" style='background-color:#F0F1EB; color:#383D3D; border-left: solid #718096 0px; border-radius: 0px;'>
-<p style='padding:0em; margin-left:0em; display: inline-block;'>
-<img src="companies.png" style="zoom:20%;  float:right; padding:0.7em"/>
-<b></b>  &rarr; In the digital age, however, a multitude of disruptive market players are challenging traditional companies and changing entire industries &rarr; increased degree of autonomy and flexibility in organizational design<br>
-</p>
-</div>
-
----
-
-### Hierarchy in the digital age
-
-![](SoMe.png)
+<img src="companies.png" style="height:150px;float:right; padding:0 0 0 20px"/>
+<p style="text-align:left">&ndash; In the digital age, however, a multitude of disruptive market players are challenging traditional companies and changing entire industries<br /><br />&ndash; increased degree of autonomy and flexibility in organizational design</p>
 
 ---
 
@@ -94,13 +76,13 @@ By Sophia Mayer
 - achieve disproportionate output
   - often up to ten times higher than traditional, so-called linear companies
 
-<div class="pull-right"><img src="innovation.png" alt="Hierarchy" width="150"/></div>
+<img src="innovation.png" alt="Hierarchy" width="150" style="display:block; margin: 0 0 0 700px;"/>
 
 ---
 
 #### Instead of strictly striving for efficiency, the focus today is on rapid adaptability
 
-<sub><sub> In order to take advantage of the disruptive potential in a digital world and remain competitive </sub>
+<p style="text-align: left">In order to take advantage of the disruptive potential in a digital world and remain competitive</p>
 
 <p><center> <img src="companieherarchy.png" alt="Hierarchy" width="800"/> </center></p>
 
