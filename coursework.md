@@ -131,3 +131,7 @@ By Sophia Mayer
 ### Sources APA
 
 <p style="font-size: 20px;text-align: left">&ndash; <strong>Caredda</strong>, S. (n.d.). Insights on Work, Organisation Design, Experience, Leadership and Change. <em>sergiocaredda.eu</em>. Retrieved 10/03/2022 from https://sergiocaredda.eu/organisation/the-true-meaning-of-hierarchy/.<br />&ndash; <strong>Deloitte</strong> (2018). Organisation neu denken. <em>Deloitte</em>. Retrieved 10/03/2022 from https://www2.deloitte.com/content/dam/Deloitte/de/Documents/human-capital/Organisation-neu-denken-flexible-organisationsmodelle-2018.pdf.<br />&ndash;  <strong>Pöhlmann</strong>, J. (n.d.). Flache Hierarchie: Definition & Vorteile und Nachteile. <em>Unternehmensberatung Axel Schröder</em>. Retrieved 10/03/2022 from https://axel-schroeder.de/flache-hierarchie-definition-vorteile-und-nachteile/.<br />&ndash; <strong>Toyka-Seid</strong>, C. & Schneider, G. (2022). Hierarchie. <em>Bundeszentrale für politische Bildung</em>. Retrieved 10/03/2022 from https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320484/hierarchie/.<br />&ndash; <strong>Williams</strong>, S. (n.d.). 7 Arten von Organisationsstrukturen (+ Organigramme zur Implementierung). <em>Lucidchart</em>. Retrieved 10/03/2022 from https://www.lucidchart.com/blog/de/arten-von-organisations-strukturen#Hierarchische%20Organisationsstruktur.</p>
+
+---
+
+Thank you for your attention
